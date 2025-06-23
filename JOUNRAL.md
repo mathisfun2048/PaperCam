@@ -51,7 +51,7 @@ Spent some time making a BOM!
 |                              | 0 .1 µF Decouplers      | KEMET C0603C104J5R                    | 4   | Local Vcc filtering          | [Digi-Key](https://www.digikey.com/en/products/detail/kemet/C0603C104J5RACTU/411165)                         |
 |                              | 10 µF Tantalum          | KEMET T491A106K016AT7280              | 2   | Rail stability               | [Digi-Key](https://www.digikey.com/en/products/detail/kemet/T491A106K016AT7280/8513162)                      |
 | **PCB & Mechanical**         |                         |                                       |     |                              |                                                                                                              |
-|                              | Custom PCB              | 2-layer 80 × 60 mm                    | 1   | ENIG finish                  | (PCB fab of choice)                                                                                          |
+|                              | Custom PCB              | 2-layer 80 × 60 mm                    | 1   | hold everything together                 | (JCL PCB                                                                                         |
 |                              | Standoffs M2 .5 × 10 mm | Keystone 24331                        | 4   | Mount Pi                     | [Digi-Key](https://www.digikey.com/en/products/detail/keystone-electronics/24331/1094544)                    |
 |                              | Screws M2 .5 × 6 mm     | Essentra 50M025045G004                | 4   | For standoffs                | [Digi-Key](https://www.digikey.com/en/products/detail/essentra-components/50M025045G004/7327811)             |
 
