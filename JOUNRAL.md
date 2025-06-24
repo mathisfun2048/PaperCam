@@ -53,9 +53,24 @@ Shoutout to graphic for GPIO pins becasue this because it helped me so much!
 
 # June 24
 
-## 10PM -> 3:30AM
+## 10PM -> 3:30AM (5.5 hours)
+
 Okay so I dont know what I was thinking! So when I first made my BOM, I relied on a lot of Digikey because they have everything... and then I saw their shipping! So to optimize, I re-did my BOM with primarily adafruit to keep shipping costs down (the parts I buy from microcenter will be in-person so no shipping). I don't know why but getting in the zen of making the schematic, I was able to think more clearly about the parts and how to use the PCB as an effective canvas for connecting. I don't know why but with my past interactions with PCBs I tried to make it as flashy and complicated as possible, but with my goal of minimalism with this project, I think I appreciate it as being an effective way to wire everything togehter. I am looking forward to see how it all turns out. In the meantime, here is a picture of my schematic!
 <img width="500" alt="Screenshot 2025-06-24 at 3 07 51 AM" src="https://github.com/user-attachments/assets/4aebd592-64fb-4ca1-aec4-a565e4054d58" />
+
+## 3:30AM -> 4:30AM (1 hour)
+
+Learning experience: plan footprints! So I found out that Kicad does not nativly support my footprints as the symbols are, so I needed to spend a hot minute going through the datasheets for each of my components to select the appropriate footprints. This is what I ended up with: 
+
+<img width="500" alt="Screenshot 2025-06-24 at 4 41 56 AM" src="https://github.com/user-attachments/assets/05f17668-ff6f-443e-86f7-866d9b6e9ede" />
+
+
+Very excited to start building the PCB now!
+
+
+
+
+
 
 
 
