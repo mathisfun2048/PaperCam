@@ -49,3 +49,13 @@ Shoutout to graphic for GPIO pins becasue this because it helped me so much!
 | **Mechanical / PCB** |                                      |                                 |     |                                                                                                                                                                                                                                                              |
 |                      | Standoffs M2.5 × 10 mm  , Screws M2.5 × 6 mm              | 3299                | 8   | [adafruit](https://www.adafruit.com/product/3299)                                                                                               |
 |                      | Custom PCB (2-layer 80 × 60 mm ENIG) | n/a                             | 1   | (JLCPCB / PCBWay whichever is cheaper)                                                                                                                                                                                                                                            |
+
+
+# June 24
+
+## 10PM -> 3:30AM
+Okay so I dont know what I was thinking! So when I first made my BOM, I relied on a lot of Digikey because they have everything... and then I saw their shipping! So to optimize, I re-did my BOM with primarily adafruit to keep shipping costs down (the parts I buy from microcenter will be in-person so no shipping). I don't know why but getting in the zen of making the schematic, I was able to think more clearly about the parts and how to use the PCB as an effective canvas for connecting. I don't know why but with my past interactions with PCBs I tried to make it as flashy and complicated as possible, but with my goal of minimalism with this project, I think I appreciate it as being an effective way to wire everything togehter. I am looking forward to see how it all turns out. In the meantime, here is a picture of my schematic!
+<img width="500" alt="Screenshot 2025-06-24 at 3 07 51 AM" src="https://github.com/user-attachments/assets/4aebd592-64fb-4ca1-aec4-a565e4054d58" />
+
+
+
