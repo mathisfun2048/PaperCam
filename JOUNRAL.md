@@ -19,7 +19,7 @@ So I'm in the middle of my LightBox project (which you should totally check out 
 
 ## 3:30PM -> 5:30PM, 6PM -> 10PM (6 hours)
 
-Spent some time researching various compoennts! A goal I have for this project is to absolulty minimize costs, something I had not looked at before. Because of this, I tried a very minamalistic desing fro my PCB. Here are the fruits from my labor in one cool table!
+Spent some time researching various compoennts! A goal I have for this project is to absolulty minimize costs, something I had not looked at before. This was really, stupidly, hard because camera modules are so abundant... but I wanted to make one myself! I'm glad I was able to. Because of this, the PCB will be very minimalistic, but honestly, it might look better that way; it will fit the monocrome e-ink "instant" display. Here are the fruits from my labor in one cool table!
 
 | Section              | Item                                 | Part Number / Spec              | Qty | Buy Link                                                                                                                                                                                                                                                     |
 | -------------------- | ------------------------------------ | ------------------------------- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
