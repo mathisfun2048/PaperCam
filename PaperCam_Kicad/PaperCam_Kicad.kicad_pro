@@ -489,7 +489,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../CAD/PaperCam_Kicad.step",
       "svg": "",
       "vrml": ""
     },
