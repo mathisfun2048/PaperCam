@@ -96,6 +96,11 @@ Finished with the PCB design! Very excited to see this in person :)
 Now onto software!
 
 
+## 3AM -> 6AM (3 hours)
+
+quick updated: I connected the LBO to pin 37 so I can get a low-battery notification!
+
+
 
 
 
