@@ -81,7 +81,24 @@ could not finish this in 1 session; I had work.
 
 ## 12AM -> 3AM (3 hours)
 
-Finished with the PCB design!
+Finished with the PCB design! Very excited to see this in person :)
+
+### PCB on Kicad
+<img width="500" alt="Screenshot 2025-06-25 at 3 04 05 AM" src="https://github.com/user-attachments/assets/4b7af1d3-0de7-4e19-95a3-312d08e8627d" />
+
+
+### Back Virtualization
+<img width="500" alt="Screenshot 2025-06-25 at 3 04 50 AM" src="https://github.com/user-attachments/assets/0664384a-d36c-4135-a59f-b075da2cdb97" />
+
+### Front Virtualiation
+<img width="500" alt="Screenshot 2025-06-25 at 3 05 29 AM" src="https://github.com/user-attachments/assets/0aacd035-b9d0-45a4-a065-c76e1856e4e7" />
+
+Now onto software!
+
+
+
+
+
 
 
 
