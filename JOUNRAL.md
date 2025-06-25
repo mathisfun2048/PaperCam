@@ -50,7 +50,7 @@ Shoutout to graphic for GPIO pins becasue this because it helped me so much!
 |                      | Bulk Cap 220uF 16V Electrolytic Capacitors  | 2192            | 1   | [adafruit](https://www.adafruit.com/product/2192)                                                                                                             |
 | **Mechanical / PCB** |                                      |                                 |     |                                                                                                                                                                                                                                                              |
 |                      |  Screws M2.5 × 6 mm * 5, M2.5 x 10 mm * 4              | 3299                | 8   | [adafruit](https://www.adafruit.com/product/3299)                                                                                               |
-|                      | Custom PCB (2-layer 80 × 60 mm ENIG) | n/a                             | 1   | (JLCPCB / PCBWay whichever is cheaper)                                                                                                                                                                                                                                            |
+|                      | Custom PCB (2-layer 110 × 110 mm ENIG) | n/a                             | 1   | (JLCPCB / PCBWay whichever is cheaper)                                                                                                                                                                                                                                            |
 
 
 # June 24
@@ -88,37 +88,64 @@ Finished with the PCB design! Very excited to see this in person :)
 
 ### PCB on Kicad
 <img width="100" alt="Screenshot 2025-06-25 at 3 04 05 AM" src="https://github.com/user-attachments/assets/4b7af1d3-0de7-4e19-95a3-312d08e8627d" />
-<img width="500" alt="Screenshot 2025-06-25 at 6 34 42 AM" src="https://github.com/user-attachments/assets/00f25166-3e46-4d0e-a5a7-a67c079341f5" />
+<img width="100" alt="Screenshot 2025-06-25 at 6 34 42 AM" src="https://github.com/user-attachments/assets/00f25166-3e46-4d0e-a5a7-a67c079341f5" />
+<img width="500" alt="Screenshot 2025-06-25 at 12 37 25 PM" src="https://github.com/user-attachments/assets/5292b68c-6ea1-4185-b883-7ea34965145c" />
 
 
 ### Front Virtualization
 <img width="100" alt="Screenshot 2025-06-25 at 3 04 50 AM" src="https://github.com/user-attachments/assets/0664384a-d36c-4135-a59f-b075da2cdb97" />
-<img width="500" alt="Screenshot 2025-06-25 at 6 36 08 AM" src="https://github.com/user-attachments/assets/58d790ab-df49-490f-9635-c0f29274f387" />
+<img width="100" alt="Screenshot 2025-06-25 at 6 36 08 AM" src="https://github.com/user-attachments/assets/58d790ab-df49-490f-9635-c0f29274f387" />
+<img width="500" alt="Screenshot 2025-06-25 at 12 37 53 PM" src="https://github.com/user-attachments/assets/ddadd9a8-ed75-42f7-a518-3ab2ecc0739a" />
+
+
 
 ### Back Virtualiation
 <img width="100" alt="Screenshot 2025-06-25 at 3 05 29 AM" src="https://github.com/user-attachments/assets/0aacd035-b9d0-45a4-a065-c76e1856e4e7" />
-<img width="500" alt="Screenshot 2025-06-25 at 6 37 18 AM" src="https://github.com/user-attachments/assets/863d66a2-5e76-4f48-aa27-7f0693e4a21a" />
+<img width="100" alt="Screenshot 2025-06-25 at 6 37 18 AM" src="https://github.com/user-attachments/assets/863d66a2-5e76-4f48-aa27-7f0693e4a21a" />
+<img width="500" alt="Screenshot 2025-06-25 at 12 38 31 PM" src="https://github.com/user-attachments/assets/295289ba-b150-479c-88e3-9459ae74d27c" />
+
 
 Now onto software!
 
 
-## 3AM -> 7AM (4 hours)
+## 3AM -> 8AM (5 hours)
 
 quick updated: I connected the LBO to pin 37 so I can get a low-battery notification!
 
 okay so I finished the software!!!!!! 
 
-This was significantly more complicated than coding my hackpad.... that took some intense code.... yikes
+This was significantly more complicated than coding my hackpad.... that took some intense coding.... yikes
 
 I dont know what screenshots to attach here because, well, everything is just text. 
 
 If you want to see a full software reveal, hit the software directory in this repo! There'll be a handy dandy repo there that will explain what each of the 3 files does!
 
+Some things I learned: embeded design is really stupidly hard! If the internet did not exist, I have no clue how I could have found everything I needed. Thankfully, because the goal of my project is minimalism, the code wasn't too too complex but honestly, this was my first time dealing with software with multiple files working together. It was very fun learning how to do this, and I'm glad I gained this skill. 
+
 Final stop: CAD case. 
 
-## 7AM -> 11AM (4 hours)
+## 8AM -> 1PM (4 hours)
 
 I'm glad I'm getting better at cad! For this project, I had no inspo (gasp) I did the whole thign by myself, which I am really really proud of. My goal of minimalism probably helped--I want my final product to look like a glorified box which is easier to design haha. Anyways, I ventured with a new CAD software today: shapr3D. I normally use my IPad to sketch, so it was cool to be able to do 3D models on it--it felt a lot more natural than working CAD through fusion. I will post pictures when finished!
+
+OKAY IM FINALLY DONE!!!
+![IMG_4890](https://github.com/user-attachments/assets/ac54484e-111d-4471-9d1a-0d8462c254b3)
+
+The design philosophy behind this is simplicity: I wanted the facade to be reminicent of a square instax camera, so I used a similar bulky square mootif as the central design. To add some variety, I included curved floureshes to both add visual contrast and make it easier to hold (no sharp corners!). 
+
+Inside, the design is a tad bit more complicated. With numerous hidden screw holes, everything will be in place without harming the external facade. The "blocky" aesthetic I wanted to achieve is enhanced by the frame's rigidity afforded by the inlaid interlocking square and viewfinder. 
+
+On the sides, there are access points to charge the device and swap out the sd card. 
+
+## 1PM -> 2PM (1 hour)
+
+I spent this time tidying this document up and adding all other documentation onto this repo! I hope you had fun reading this!
+
+# I belive I have everything prepped for this project, including a Custom PCB, Custom Firmware, Custom Case, and associated components. The next step for me is to order my components and build this thing! Very excited
+
+# One quick (and big) thank you to hack club for motivating me to do this project. Its ben an amazing run--thank you!
+
+
 
 
 
