@@ -96,9 +96,19 @@ Finished with the PCB design! Very excited to see this in person :)
 Now onto software!
 
 
-## 3AM -> 6AM (3 hours)
+## 3AM -> 10AM (7 hours)
 
 quick updated: I connected the LBO to pin 37 so I can get a low-battery notification!
+
+okay so I finished the software!!!!!! 
+
+This was significantly more complicated than coding my hackpad.... that took some intense code.... yikes
+
+I dont know what screenshots to attach here because, well, everything is just text. 
+
+If you want to see a full software reveal, hit the software directory in this repo! There'll be a handy dandy repo there that will explain what each of the 3 files does!
+
+
 
 
 
