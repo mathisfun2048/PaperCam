@@ -6,6 +6,8 @@ description: this project is to create a digital camera that emulates the feelin
 
 created: 06/22/2025
 
+total hours so far: 21 hours
+
 
 # June 22
 
@@ -69,7 +71,7 @@ Learning experience: plan footprints! So I found out that Kicad does not nativly
 Very excited to start building the PCB now!
 
 
-## 3PM -> 4PM
+## 3PM -> 4PM (1 hour)
 
 Started desinging the PCB!
 
@@ -100,7 +102,7 @@ Finished with the PCB design! Very excited to see this in person :)
 Now onto software!
 
 
-## 3AM -> 10AM (7 hours)
+## 3AM -> 7AM (4 hours)
 
 quick updated: I connected the LBO to pin 37 so I can get a low-battery notification!
 
@@ -111,6 +113,12 @@ This was significantly more complicated than coding my hackpad.... that took som
 I dont know what screenshots to attach here because, well, everything is just text. 
 
 If you want to see a full software reveal, hit the software directory in this repo! There'll be a handy dandy repo there that will explain what each of the 3 files does!
+
+Final stop: CAD case. 
+
+## 7AM -> Present 
+
+Am working on the CAD!. 
 
 
 
