@@ -6,7 +6,7 @@ description: this project is to create a digital camera that emulates the feelin
 
 created: 06/22/2025
 
-total hours so far: 21 hours
+total hours so far: 27 hours
 
 
 # June 22
