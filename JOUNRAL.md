@@ -49,7 +49,7 @@ Shoutout to graphic for GPIO pins becasue this because it helped me so much!
 |                      | Decoupling 0.1 µF Ceramic Capacitor     | 753          | 2   | [adafruit](https://www.adafruit.com/product/753)                                                                                                           |
 |                      | Bulk Cap 220uF 16V Electrolytic Capacitors  | 2192            | 1   | [adafruit](https://www.adafruit.com/product/2192)                                                                                                             |
 | **Mechanical / PCB** |                                      |                                 |     |                                                                                                                                                                                                                                                              |
-|                      | Standoffs M2.5 × 10 mm  , Screws M2.5 × 6 mm              | 3299                | 8   | [adafruit](https://www.adafruit.com/product/3299)                                                                                               |
+|                      |  Screws M2.5 × 6 mm * 5, M2.5 x 10 mm * 4              | 3299                | 8   | [adafruit](https://www.adafruit.com/product/3299)                                                                                               |
 |                      | Custom PCB (2-layer 80 × 60 mm ENIG) | n/a                             | 1   | (JLCPCB / PCBWay whichever is cheaper)                                                                                                                                                                                                                                            |
 
 
@@ -116,9 +116,9 @@ If you want to see a full software reveal, hit the software directory in this re
 
 Final stop: CAD case. 
 
-## 7AM -> Present 
+## 7AM -> 11AM (4 hours)
 
-Am working on the CAD!. 
+I'm glad I'm getting better at cad! For this project, I had no inspo (gasp) I did the whole thign by myself, which I am really really proud of. My goal of minimalism probably helped--I want my final product to look like a glorified box which is easier to design haha. Anyways, I ventured with a new CAD software today: shapr3D. I normally use my IPad to sketch, so it was cool to be able to do 3D models on it--it felt a lot more natural than working CAD through fusion. I will post pictures when finished!
 
 
 
