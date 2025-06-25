@@ -68,8 +68,21 @@ Learning experience: plan footprints! So I found out that Kicad does not nativly
 Very excited to start building the PCB now!
 
 
-## 3PM -> 
-<img width="594" alt="Screenshot 2025-06-24 at 3 19 32 PM" src="https://github.com/user-attachments/assets/aff2bcb5-9054-4ecf-9fe5-941d2667d66d" />
+## 3PM -> 4PM
+
+Started desinging the PCB!
+
+
+<img width="500" alt="Screenshot 2025-06-24 at 3 19 32 PM" src="https://github.com/user-attachments/assets/aff2bcb5-9054-4ecf-9fe5-941d2667d66d" />
+
+could not finish this in 1 session; I had work. 
+
+# June 25
+
+## 12AM -> 3AM (3 hours)
+
+Finished with the PCB design!
+
 
 
 
