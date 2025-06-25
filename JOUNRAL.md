@@ -56,7 +56,8 @@ Shoutout to graphic for GPIO pins becasue this because it helped me so much!
 ## 10PM -> 3:30AM (5.5 hours)
 
 Okay so I dont know what I was thinking! So when I first made my BOM, I relied on a lot of Digikey because they have everything... and then I saw their shipping! So to optimize, I re-did my BOM with primarily adafruit to keep shipping costs down (the parts I buy from microcenter will be in-person so no shipping). I don't know why but getting in the zen of making the schematic, I was able to think more clearly about the parts and how to use the PCB as an effective canvas for connecting. I don't know why but with my past interactions with PCBs I tried to make it as flashy and complicated as possible, but with my goal of minimalism with this project, I think I appreciate it as being an effective way to wire everything togehter. I am looking forward to see how it all turns out. In the meantime, here is a picture of my schematic!
-<img width="500" alt="Screenshot 2025-06-24 at 3 07 51 AM" src="https://github.com/user-attachments/assets/4aebd592-64fb-4ca1-aec4-a565e4054d58" />
+<img width="100" alt="Screenshot 2025-06-24 at 3 07 51 AM" src="https://github.com/user-attachments/assets/4aebd592-64fb-4ca1-aec4-a565e4054d58" />
+<img width="500" alt="Screenshot 2025-06-25 at 6 33 33 AM" src="https://github.com/user-attachments/assets/593ba8b3-8116-4231-9fe3-35cd7a39fe0d" />
 
 ## 3:30AM -> 4:30AM (1 hour)
 
@@ -84,14 +85,17 @@ could not finish this in 1 session; I had work.
 Finished with the PCB design! Very excited to see this in person :)
 
 ### PCB on Kicad
-<img width="500" alt="Screenshot 2025-06-25 at 3 04 05 AM" src="https://github.com/user-attachments/assets/4b7af1d3-0de7-4e19-95a3-312d08e8627d" />
+<img width="100" alt="Screenshot 2025-06-25 at 3 04 05 AM" src="https://github.com/user-attachments/assets/4b7af1d3-0de7-4e19-95a3-312d08e8627d" />
+<img width="500" alt="Screenshot 2025-06-25 at 6 34 42 AM" src="https://github.com/user-attachments/assets/00f25166-3e46-4d0e-a5a7-a67c079341f5" />
 
 
-### Back Virtualization
-<img width="500" alt="Screenshot 2025-06-25 at 3 04 50 AM" src="https://github.com/user-attachments/assets/0664384a-d36c-4135-a59f-b075da2cdb97" />
+### Front Virtualization
+<img width="100" alt="Screenshot 2025-06-25 at 3 04 50 AM" src="https://github.com/user-attachments/assets/0664384a-d36c-4135-a59f-b075da2cdb97" />
+<img width="500" alt="Screenshot 2025-06-25 at 6 36 08 AM" src="https://github.com/user-attachments/assets/58d790ab-df49-490f-9635-c0f29274f387" />
 
-### Front Virtualiation
-<img width="500" alt="Screenshot 2025-06-25 at 3 05 29 AM" src="https://github.com/user-attachments/assets/0aacd035-b9d0-45a4-a065-c76e1856e4e7" />
+### Back Virtualiation
+<img width="100" alt="Screenshot 2025-06-25 at 3 05 29 AM" src="https://github.com/user-attachments/assets/0aacd035-b9d0-45a4-a065-c76e1856e4e7" />
+<img width="500" alt="Screenshot 2025-06-25 at 6 37 18 AM" src="https://github.com/user-attachments/assets/863d66a2-5e76-4f48-aa27-7f0693e4a21a" />
 
 Now onto software!
 
