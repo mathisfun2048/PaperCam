@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SPDT slide")(type "KiCad")(uri "/Users/aryachakrabarti/Desktop/Kicad Libraries/papercam files/ul_OS102011MS2QN1/KiCADv6/2025-06-23_21-50-38.kicad_sym")(options "")(descr ""))
+  (lib (name "PiGRRL-ButtonPCB-eagle-import")(type "KiCad")(uri "/Users/aryachakrabarti/Downloads/PiGRRL-ButtonPCB/PiGRRL-ButtonPCB/PiGRRL-ButtonPCB-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "Adafruit 1000C")(type "KiCad")(uri "/Users/aryachakrabarti/Desktop/Kicad Libraries/papercam files/2465/2465.kicad_sym")(options "")(descr ""))
+)
