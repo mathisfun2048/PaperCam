@@ -13,7 +13,6 @@ Environment=PYTHONUNBUFFERED=1
 StandardOutput=journal
 StandardError=journal
 
-# Ensure Pi filesystem is ready
 ExecStartPre=/bin/sleep 5
 
 [Install]
