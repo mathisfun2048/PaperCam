@@ -1,7 +1,9 @@
-title: PaperCam
-author: Arya C.
-description: this project is to create a digital camera that emulates the feeling of a instant camera through the use of an e-ink display.
-created_at: 06/22/2025
+---
+title: "PaperCam"
+author: "Arya CC"
+description: "this project is to create a digital camera that emulates the feeling of a instant camera through the use of an e-ink display."
+created_at: "06/22/2025"
+---
 total hours so far: 27 hours
 
 
