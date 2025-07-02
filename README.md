@@ -47,17 +47,13 @@ NOTE: I know some items can be found cheaper through other retailars: the only p
 I saw that with this project, spending all this time curating the BOM allowed my schematic and PCB design process to be significantly smoother. I was able to organically decide where components go such that the product can fulfill its purpose without having anything excess. I feel this starked my approach in my Hackpad design, where I flooded the PCB with an LED matrix, OLED, and encoder when perhaps the keys would have sufficed. The design of this project has been meditative, and I am grateful for that. One way I referenced this creative meditation in the design itself is through the inclusion of graphic design motifs I designed during the pandemic. The graphic design kept me sane then through its meditative nature, and I wanted to reference that simple creativity in the silkscreen. I will say that the silkscreen aesthetic starks the clean minimalistic nature of the CAD, and that is intentional: my graphic design motifs, in all their chaos, are a part of me and do not necessarily need to be advertised. To the user, I want the product to be simple elegant, and perfect for capturing memories. 
 
 ### Schematic
-<img width="500" alt="Screenshot 2025-06-25 at 6 33 33 AM" src="https://github.com/user-attachments/assets/593ba8b3-8116-4231-9fe3-35cd7a39fe0d" />
+<img width="500" alt="Screenshot 2025-07-02 at 2 20 03 AM" src="https://github.com/user-attachments/assets/fe7cd2d6-a77b-40ad-bfdb-a26076c50a17" />
+
 
 ### PCB on Kicad
-<img width="500" alt="Screenshot 2025-06-25 at 12 37 25 PM" src="https://github.com/user-attachments/assets/5292b68c-6ea1-4185-b883-7ea34965145c" />
+<img width="500" alt="Screenshot 2025-07-02 at 2 20 18 AM" src="https://github.com/user-attachments/assets/c80ca815-89d5-4f7b-b909-6e609034a930" />
 
 
-### Front Virtualization
-<img width="500" alt="Screenshot 2025-06-25 at 12 37 53 PM" src="https://github.com/user-attachments/assets/ddadd9a8-ed75-42f7-a518-3ab2ecc0739a" />
-
-### Back Virtualiation
-<img width="500" alt="Screenshot 2025-06-25 at 12 38 31 PM" src="https://github.com/user-attachments/assets/295289ba-b150-479c-88e3-9459ae74d27c" />
 
 ## Firmware
 
