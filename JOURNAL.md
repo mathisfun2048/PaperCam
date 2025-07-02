@@ -139,6 +139,20 @@ On the sides, there are access points to charge the device and swap out the sd c
 
 I spent this time tidying this document up and adding all other documentation onto this repo! I hope you had fun reading this!
 
+# July 2 
+
+## 12AM -> 2AM (2 hours)
+
+So I was going to print but then wanted to double check... uh oh! I had massive errors on my PCB (some extra wiring that ddin't make sense). So to fix that, I got rid of my resistor to chose an internal pull up instead. This will save me some soldering haha. In this change, I made some edits to the wiring too, making it look pretier and use no vias. I also enlarged the viewfinder a bit on all sides to allow for a easier passthrough 3d print. 
+
+
+
+<img width="500" alt="Screenshot 2025-07-02 at 2 09 34 AM" src="https://github.com/user-attachments/assets/40bc1831-f53e-4be0-a010-4ed0636a29b7" />
+
+<img width="500" alt="Screenshot 2025-07-02 at 2 09 57 AM" src="https://github.com/user-attachments/assets/a8652b25-94a7-479c-a738-47c407939185" />
+
+
+
 # I belive I have everything prepped for this project, including a Custom PCB, Custom Firmware, Custom Case, and associated components. The next step for me is to order my components and build this thing! Very excited
 
 # One quick (and big) thank you to hack club for motivating me to do this project. Its ben an amazing run--thank you!
