@@ -154,6 +154,14 @@ Something I learned was that having redundant pahts is good! Because of that, fo
 
 <img width="500" alt="Screenshot 2025-07-02 at 2 09 57 AM" src="https://github.com/user-attachments/assets/a8652b25-94a7-479c-a738-47c407939185" />
 
+## 4AM -> 4:30AM (0.5 hours)
+
+I found out that my display was misrouted ... fixed it. 
+
+<img width="500" alt="Screenshot 2025-07-02 at 4 30 31 AM" src="https://github.com/user-attachments/assets/85b6bd7f-6875-4aad-8266-8f9774b58046" />
+
+<img width="500" alt="Screenshot 2025-07-02 at 4 30 53 AM" src="https://github.com/user-attachments/assets/4461eba8-a9b1-40d4-971a-e64e921d115d" />
+
 
 
 # I belive I have everything prepped for this project, including a Custom PCB, Custom Firmware, Custom Case, and associated components. The next step for me is to order my components and build this thing! Very excited
