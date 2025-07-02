@@ -51,7 +51,8 @@ I saw that with this project, spending all this time curating the BOM allowed my
 
 
 ### PCB on Kicad
-<img width="500" alt="Screenshot 2025-07-02 at 2 20 18 AM" src="https://github.com/user-attachments/assets/c80ca815-89d5-4f7b-b909-6e609034a930" />
+
+<img width="500" alt="Screenshot 2025-07-02 at 2 41 27 AM" src="https://github.com/user-attachments/assets/dc6a78cb-b4b1-40bd-a981-ad8babd808c8" />
 
 
 
