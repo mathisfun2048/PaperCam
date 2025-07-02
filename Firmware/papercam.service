@@ -1,0 +1,19 @@
+[Unit]
+Description=Arya PaperCam Firmware
+After=network.target multi-user.target
+Wants=network-online.target
+
+[Service]
+ExecStart=/usr/bin/python3 /home/pi/camera_main.py
+WorkingDirectory=/home/pi
+Restart=on-failure
+RestartSec=3
+User=pi
+Environment=PYTHONUNBUFFERED=1
+StandardOutput=journal
+StandardError=journal
+
+ExecStartPre=/bin/sleep 5
+
+[Install]
+WantedBy=multi-user.target
