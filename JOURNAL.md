@@ -162,7 +162,8 @@ I found out that my display was misrouted ... fixed it.
 
 <img width="500" alt="Screenshot 2025-07-02 at 4 30 53 AM" src="https://github.com/user-attachments/assets/4461eba8-a9b1-40d4-971a-e64e921d115d" />
 
-
+for future reference:
+<img width="760" alt="Screenshot 2025-07-02 at 4 35 25 AM" src="https://github.com/user-attachments/assets/20bef045-f870-4334-a891-61180141d9ff" />
 
 # I belive I have everything prepped for this project, including a Custom PCB, Custom Firmware, Custom Case, and associated components. The next step for me is to order my components and build this thing! Very excited
 
