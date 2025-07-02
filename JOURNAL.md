@@ -145,9 +145,12 @@ I spent this time tidying this document up and adding all other documentation on
 
 So I was going to print but then wanted to double check... uh oh! I had massive errors on my PCB (some extra wiring that ddin't make sense). So to fix that, I got rid of my resistor to chose an internal pull up instead. This will save me some soldering haha. In this change, I made some edits to the wiring too, making it look pretier and use no vias. I also enlarged the viewfinder a bit on all sides to allow for a easier passthrough 3d print. 
 
+Something I learned was that having redundant pahts is good! Because of that, for my 5V lines, I did implmeneted a star topology instead of my previous bus topology. Because doing STAR for GND would be a bit overkill, I did a bus initilaly, and then added a ton of redundant paths. 
 
 
-<img width="500" alt="Screenshot 2025-07-02 at 2 09 34 AM" src="https://github.com/user-attachments/assets/40bc1831-f53e-4be0-a010-4ed0636a29b7" />
+<img width="500" alt="Screenshot 2025-07-02 at 2 40 59 AM" src="https://github.com/user-attachments/assets/19722391-29b2-42e4-99be-6a16e595c7de" />
+
+
 
 <img width="500" alt="Screenshot 2025-07-02 at 2 09 57 AM" src="https://github.com/user-attachments/assets/a8652b25-94a7-479c-a738-47c407939185" />
 
