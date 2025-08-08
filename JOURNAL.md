@@ -169,11 +169,32 @@ for future reference:
 
 # One quick (and big) thank you to hack club for motivating me to do this project. Its ben an amazing run--thank you!
 
+# August 2nd 6AM -> 11 PM (17 hours) (running)
+
+so I physically built it but the camera that shipped is defective... adafruit is sending me a replacement but it has unfortunatly not arrived; the ETA is august 20th :(
+
+Here is some pictures of my build process though!
+
+I tested the code on my bigger raspberry pi 3b+ and then later ported teh sd card onto a pi zero 2w and everythign works!
+
+
+
+![IMG_5145](https://github.com/user-attachments/assets/d6413522-4a1d-4fe0-acd1-fdb01ac4d965)
 
 
 
 
+![IMG_5143](https://github.com/user-attachments/assets/46a5e016-4ccb-4bee-86ef-fecb6a2a7e01)
 
+
+
+
+![IMG_5151](https://github.com/user-attachments/assets/00fded5e-0612-4e3e-b900-21fc2423641b)
+
+
+![IMG_5142](https://github.com/user-attachments/assets/f0f876ce-1dcf-4b81-8bce-e7333fd6a55a)
+
+Here is the youtube video for a better walk through: https://youtu.be/G1qLKi6BtbE?feature=shared
 
 
 
