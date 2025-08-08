@@ -2,7 +2,8 @@
 ![IMG_4878](https://github.com/user-attachments/assets/3b7688c1-9b4d-46a6-84b0-40c486144ab1)
 ![IMG_4885](https://github.com/user-attachments/assets/347e1d17-facd-4b39-9e84-b688bc39aaf7)
 
-## Description and Exigence
+## Description and Exigence![IMG_5151](https://github.com/user-attachments/assets/e03ca024-5ac7-4501-809b-ac255f6d42fa)
+
 
 This is my third attempt at hardware design, and it's been so much fun!
 
